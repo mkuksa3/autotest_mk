@@ -1,1 +1,1 @@
-php /vendor/bin/codecept.bat run --steps
+php vendor/bin/codecept.bat run --steps
