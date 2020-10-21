@@ -1,1 +1,1 @@
-php vendor/bin/codecept bootstrap
+php /vendor/bin/codecept.bat run --steps
